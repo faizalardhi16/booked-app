@@ -1,0 +1,74 @@
+
+.buttonStyle{
+    width: 100%;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    border-radius: 5px;
+    border-width: 0px;
+    outline: none;
+    cursor: pointer;
+    background-color: #2e86de;
+    color: #ffff;
+    font-weight: 400;
+}
+
+.navigator{
+    margin: 5px;
+}
+
+.buttonBooked{
+    background-color: #27ae60;
+    outline: none;
+    border-width: 0px;
+    border-radius: 3px;
+    padding: 5px;
+    color:white;
+    cursor: pointer;
+}
+
+.buttonBooked:hover{
+    transition: .2s;
+    opacity: .6;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0 3% 0 3%;
+    align-items: center;
+}
+
+.listStyle{
+    background-color: antiquewhite;
+    width: 40%;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.valueList:first-child{
+    margin-right: 10px;
+    width: 50%;
+}
+
+.valueList:nth-child(2) {
+    margin-right: 10px;
+    width: 20%;
+    font-weight: bold;
+}
+
+.valueList:nth-child(3) {
+    margin-right: 10px;
+    width: 20%;
+    background-color: #c0392b;
+    color: white;
+    height: 30px;
+    line-height: 15px;
+    border-width: 0px;
+    border-radius: 3px;
+    cursor: pointer;
+}

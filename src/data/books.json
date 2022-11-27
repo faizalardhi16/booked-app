@@ -1,0 +1,30 @@
+[
+    {
+        "id":"e32d1ccf-86e7-429a-904e-4b07c680bfaa",
+        "title": "Dan aku milikmu",
+        "penulis": "Tere Liye",
+        "tahunTerbit": "2022",
+        "image": "/images/1-image.jpg"
+    },
+    {
+        "id":"b6976a8e-f53a-4e28-8642-bd1bfd1723d0",
+        "title": "Dan aku milikmu",
+        "penulis": "Tere Liye",
+        "tahunTerbit": "2022",
+        "image": "/images/2-image.jpg"
+    },
+    {
+        "id":"5351b361-2a08-4b1d-bb68-0ba50f9ec9ac",
+        "title": "Dan aku milikmu",
+        "penulis": "Tere Liye",
+        "tahunTerbit": "2022",
+        "image": "/images/3-image.jpg"
+    },
+    {
+        "id":"da916614-c00f-4781-83a5-d68695c2cb51",
+        "title": "Dan aku milikmu",
+        "penulis": "Tere Liye",
+        "tahunTerbit": "2022",
+        "image": "/images/4-image.jpg"
+    }
+]

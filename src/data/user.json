@@ -1,0 +1,24 @@
+[
+    {
+        "id":"5d4f24da-9545-4631-976b-352a633d60e1",
+        "firstName": "Alisson",
+        "lastName": "Becker",
+        "email": "alisson_becker@gmail.com",
+        "password": "123123"
+    },
+    {
+        "id":"c6fbfd20-7b31-47ec-9de2-68b3399fb534",
+        "firstName": "Natalie",
+        "lastName": "Rezada",
+        "email": "natalie@gmail.com",
+        "password": "123123"
+    },
+    {
+        "id":"f18c134f-4745-4faa-a702-17e8cb63ea3b",
+        "firstName": "Wellington",
+        "lastName": "Nem",
+        "email": "wellington@gmail.com",
+        "password": "123123"
+    }
+]
+

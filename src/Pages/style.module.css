@@ -1,0 +1,70 @@
+
+.mainContainer{
+    margin: 0 auto;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.mainContent{
+    background-color: red;
+    height: 50vh;
+    width: 30%;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.label{
+    font-weight: bold;
+}
+
+.inputArea{
+    margin: 15% 0 15% 0;
+}
+
+.mainContainerProfile{
+    margin: 0 auto;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.mainContentProfile{
+    background-color: #8395a7;
+    height: 50vh;
+    width: 30%;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.mainContainerBooks{
+    margin: 0 auto;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+}
+
+.mainContentBooks {
+    width: 80%;
+    margin-top: 3%;
+}
+
+.mainNotFound{
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
